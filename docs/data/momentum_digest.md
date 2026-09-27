@@ -1,6 +1,6 @@
-# ASX Momentum Digest — 2026-09-26
+# ASX Momentum Digest — 2026-09-27
 
-**Scanned:** 1767 stocks | **Passed filters:** 690 | **Uptrends (CU):** 15 | **Accelerating:** 5 | **New Uptrends:** 0 | **Lost Uptrends:** 0
+**Scanned:** 1767 stocks | **Passed filters:** 677 | **Uptrends (CU):** 15 | **Accelerating:** 5 | **New Uptrends:** 0 | **Lost Uptrends:** 0
 
 ## Track 1: Momentum Candidates (14)
 
@@ -47,16 +47,16 @@ Stocks 40%+ below 52-week high but showing positive recent segments. Not buy sig
 | 13 | **COH** | COH | $142.30 | -50.9% | -57.2% | +7.3% | -2.8% | 4 | +1 | — | 879K | Unknown |
 | 14 | **CAT** | CAT | $3.14 | -58.0% | -58.0% | +1.3% | -10.4% | 4 | +2 | — | 930K | Unknown |
 | 15 | **ASB** | ASB | $4.42 | -49.5% | -49.5% | -4.7% | +10.2% | 4 | -1 | — | 2.5M | Unknown |
-| 16 | **RAC** | RAC | $2.05 | -56.4% | -56.4% | +1.5% | -8.2% | 3 | +1 | — | 87K | Unknown |
-| 17 | **JIN** | JIN | $5.70 | -54.9% | -65.7% | +1.1% | -25.4% | 2 | +1 | — | 672K | Unknown |
-| 18 | **BLX** | BLX | $1.79 | -44.2% | -49.8% | -4.0% | +9.9% | 5 | -1 | — | 76K | Unknown |
-| 19 | **NXL** | NXL | $1.88 | -41.1% | -75.7% | +5.6% | -16.4% | 3 | +1 | — | 973K | Unknown |
-| 20 | **ORD** | ORD | $0.52 | -46.9% | -46.9% | -7.1% | +2.8% | 4 | -1 | — | 62K | Unknown |
+| 16 | **JIN** | JIN | $5.70 | -54.9% | -65.7% | +1.1% | -25.4% | 2 | +1 | — | 672K | Unknown |
+| 17 | **BLX** | BLX | $1.79 | -44.2% | -49.8% | -4.0% | +9.9% | 5 | -1 | — | 76K | Unknown |
+| 18 | **NXL** | NXL | $1.88 | -41.1% | -75.7% | +5.6% | -16.4% | 3 | +1 | — | 973K | Unknown |
+| 19 | **ORD** | ORD | $0.52 | -46.9% | -46.9% | -7.1% | +2.8% | 4 | -1 | — | 62K | Unknown |
+| 20 | **OSM** | OSM | $0.64 | -41.8% | -41.8% | +3.2% | -6.1% | 4 | +2 | — | 57K | Unknown |
 
 **Sector breakdown:**
 - Unknown: 20 (IXR, BAP, KMD, IEL, AMA, NVA, KPG, CMA, ATR, AXQ +10 more)
 
 ---
-> ⚠️ Coverage gaps: 0 tickers not downloaded, 0 batch(es) dropped, 690 info lookups failed.
+> ⚠️ Coverage gaps: 0 tickers not downloaded, 0 batch(es) dropped, 677 info lookups failed.
 
 *Filters: min price $0.50, min mcap $100M, min vol 50,000. General information only. Not personal financial advice.*
