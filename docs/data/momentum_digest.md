@@ -1,29 +1,27 @@
-# ASX Momentum Digest — 2026-10-08
+# ASX Momentum Digest — 2026-10-09
 
-**Scanned:** 1656 stocks | **Passed filters:** 947 | **Uptrends (CU):** 15 | **Accelerating:** 9 | **New Uptrends:** 12 | **Lost Uptrends:** 11
+**Scanned:** 1655 stocks | **Passed filters:** 941 | **Uptrends (CU):** 12 | **Accelerating:** 5 | **New Uptrends:** 6 | **Lost Uptrends:** 9
 
-## Track 1: Momentum Candidates (9)
+## Track 1: Momentum Candidates (11)
 
 Stocks in continuous uptrend (CU), accelerating (AC), or newly entering uptrend (NU). Ranked by composite momentum score.
 
 | # | Ticker | Name | Price | Score | Flags | 1W | 1M | 3M | 6M | 1Y | From 52wH | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **GNG** | GR ENGIN FPO [GNG] | $7.66 | 7 | Uptrend, NewUptrend | +0.5% | +12.7% | +43.3% | +14.8% | +11.5% | -1.9% | $1.5B | 899K | Basic Materials |
-| 2 | **LYL** | LYCOPODIUM FPO [LYL] | $23.62 | 8 | Uptrend, Ext.Uptrend, NewUptrend | +0.9% | +14.8% | +11.5% | +39.2% | +12.8% | -3.4% | $935M | 95K | Industrials |
-| 3 | **ALD** | AMPOL FPO [ALD] | $44.43 | 7 | Uptrend, NewUptrend | +2.1% | +6.4% | +21.1% | +6.2% | +13.4% | -0.9% | $10.6B | 1.3M | Energy |
-| 4 | **MAH** | MACMAHON FPO [MAH] | $1.13 | 7 | Uptrend, Ext.Uptrend, NewUptrend | +1.8% | +17.7% | +9.8% | +2.4% | +83.5% | -2.2% | $2.4B | 8.1M | Basic Materials |
-| 5 | **WGN** | WAGNERS FPO [WGN] | $4.55 | 7 | Uptrend, Ext.Uptrend, NewUptrend | +2.5% | +4.7% | +3.4% | +3.8% | +48.1% | -7.4% | $918M | 465K | Basic Materials |
-| 6 | **VNT** | VENTIA FPO [VNT] | $6.09 | 7 | Uptrend, Ext.Uptrend, NewUptrend | +0.2% | +5.2% | +0.6% | +12.5% | +1.0% | -8.0% | $5.0B | 2.0M | Industrials |
-| 7 | **RHC** | RAMSAY FPO [RHC] | $54.59 | 5 | Uptrend, NewUptrend | +0.2% | +2.1% | +25.4% | +6.3% | +27.4% | -2.0% | $12.6B | 726K | Healthcare |
-| 8 | **CCL** | CUSCAL LTD FPO [CCL] | $6.39 | 5 | Uptrend, Accelerating | +4.5% | +10.3% | +13.3% | +18.9% | +8.4% | -1.8% | $1.3B | 2.1M | Technology |
-| 9 | **SYL** | SYMAL GRP FPO [SYL] | $2.78 | 5 | Uptrend, NewUptrend | +2.6% | +1.5% | +0.6% | +18.4% | +11.1% | -18.1% | $670M | 211K | Industrials |
+| 1 | **MYE** | MYE | $0.78 | 6 | Uptrend, NewUptrend | +2.6% | +16.9% | +80.6% | +100.0% | +33.3% | -4.3% | — | 520K | Unknown |
+| 2 | **PYC** | PYC | $2.48 | 6 | Uptrend, NewUptrend | +0.8% | +1.7% | +55.6% | +32.3% | +0.4% | -14.8% | — | 5.7M | Unknown |
+| 3 | **SOL** | SOL | $46.17 | 7 | Uptrend, Ext.Uptrend, NewUptrend | +2.1% | +2.1% | +0.7% | +3.6% | +11.5% | -4.5% | — | 659K | Unknown |
+| 4 | **REH** | REH | $16.89 | 6 | Uptrend, NewUptrend | +1.7% | +0.6% | +6.7% | +9.9% | +27.3% | -2.7% | — | 546K | Unknown |
+| 5 | **MAH** | MAH | $1.10 | 7 | Uptrend, Ext.Uptrend | +10.5% | +2.3% | +9.4% | +5.8% | +82.7% | -4.3% | — | 8.1M | Unknown |
+| 6 | **WGN** | WGN | $4.52 | 7 | Uptrend, Ext.Uptrend | +3.7% | +2.1% | +4.1% | +0.7% | +56.1% | -8.0% | — | 457K | Unknown |
+| 7 | **BOL** | BOL | $2.45 | 6 | Uptrend | +2.9% | +6.7% | +4.8% | +28.0% | +21.3% | +0.0% | — | 102K | Unknown |
+| 8 | **CCL** | CCL | $6.37 | 5 | Uptrend | +1.0% | +14.1% | +13.3% | +13.8% | +13.1% | -2.1% | — | 2.1M | Unknown |
+| 9 | **FPH** | FPH | $38.10 | 6 | Accelerating | +3.6% | +3.7% | +7.7% | +3.7% | -1.8% | +0.0% | — | 465K | Unknown |
+| 10 | **SYL** | SYL | $2.76 | 5 | Uptrend | +0.7% | +0.7% | +1.8% | +20.9% | +4.6% | -18.7% | — | 174K | Unknown |
+| 11 | **RMD** | RMD | $32.59 | 5 | Accelerating | +2.5% | +3.4% | +2.6% | -6.8% | -23.8% | -21.2% | — | 911K | Unknown |
 
 **Sector breakdown:**
-- Basic Materials: 3 (GNG, MAH, WGN)
-- Industrials: 3 (LYL, VNT, SYL)
-- Energy: 1 (ALD)
-- Healthcare: 1 (RHC)
-- Technology: 1 (CCL)
+- Unknown: 11 (MYE, PYC, SOL, REH, MAH, WGN, BOL, CCL, FPH, SYL +1 more)
 
 ## Track 2: Reversal Candidates (20)
 
@@ -31,37 +29,31 @@ Stocks 40%+ below 52-week high but showing positive recent segments. Not buy sig
 
 | # | Ticker | Name | Price | From 52wH | From 5yH | 1W | 1M | Score | Wk Streak | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **IEL** | IEL FPO [IEL] | $2.10 | -67.1% | -94.1% | +5.5% | +28.8% | 2 | +4 | $583M | 3.9M | Consumer Defensive |
-| 2 | **PNR** | PANTORO FPO [PNR] | $2.99 | -52.2% | -58.1% | +1.4% | +8.9% | 5 | +1 | $1.2B | 3.4M | Basic Materials |
-| 3 | **GTK** | GENTRACK FPO NZX [GTK] | $3.24 | -66.4% | -75.1% | +11.0% | -17.0% | 4 | +1 | $364M | 574K | Technology |
-| 4 | **ZIP** | ZIPCOLTD FPO [ZIP] | $2.08 | -55.2% | -70.7% | +4.5% | -13.6% | 4 | +2 | $2.6B | 13.4M | Financial Services |
-| 5 | **BBN** | BABY B FPO [BBN] | $1.09 | -65.5% | -80.1% | +3.8% | -0.9% | 2 | +4 | $150M | 197K | Consumer Cyclical |
-| 6 | **XRO** | XERO FPO [XRO] | $56.50 | -64.0% | -70.9% | +2.2% | -25.5% | 4 | -1 | $10.0B | 1.1M | Technology |
-| 7 | **NWL** | NETWEALTH FPO [NWL] | $17.23 | -46.8% | -53.1% | +3.2% | -15.7% | 5 | +2 | $4.2B | 771K | Technology |
-| 8 | **LGI** | LGILIMITED FPO [LGI] | $2.23 | -50.1% | -50.1% | +17.4% | -13.1% | 4 | +1 | $231M | 54K | Utilities |
-| 9 | **WTC** | WISETECH FPO [WTC] | $31.58 | -62.9% | -77.1% | +0.8% | -10.8% | 4 | -1 | $10.7B | 1.7M | Technology |
-| 10 | **SEK** | SEEK FPO [SEK] | $12.12 | -55.4% | -62.3% | +2.3% | -12.6% | 4 | +2 | $4.3B | 1.7M | Communication Services |
-| 11 | **WBT** | WEEBITNANO FPO [WBT] | $3.31 | -61.6% | -62.2% | -10.8% | +5.7% | 3 | -1 | $791M | 2.2M | Technology |
-| 12 | **BAP** | BAPCOR LTD FPO [BAP] | $0.78 | -75.5% | -89.8% | -7.2% | +5.7% | 2 | -2 | $521M | 7.6M | Consumer Cyclical |
-| 13 | **CAT** | CATAPULT FPO [CAT] | $3.13 | -58.0% | -58.1% | -1.4% | +1.3% | 4 | -1 | $992M | 747K | Technology |
-| 14 | **AAI** | ALCOA CORP CDI 1:1 [AAI] | $61.40 | -47.4% | -47.4% | +2.1% | -14.2% | 3 | +1 | $16.2B | 232K | Basic Materials |
-| 15 | **KPG** | KELLYPRTNR FPO [KPG] | $4.24 | -60.1% | -68.9% | +2.0% | -17.0% | 5 | -1 | $192M | 51K | Industrials |
-| 16 | **NCK** | NICK SCALI FPO [NCK] | $14.20 | -42.0% | -42.0% | +3.0% | -3.1% | 4 | +2 | $1.2B | 290K | Consumer Cyclical |
-| 17 | **CTD** | CORP TRAV FPO [CTD] | $2.18 | -86.4% | -91.3% | -5.2% | +3.6% | 2 | -3 | $322M | 1.6M | Consumer Cyclical |
-| 18 | **CNI** | CENTURIA STAPFORUS [CNI] | $1.21 | -47.1% | -55.8% | +1.7% | -8.8% | 4 | +1 | $1.2B | 4.0M | Real Estate |
-| 19 | **PLS** | PLSGROUP FPO [PLS] | $3.77 | -43.5% | -43.5% | +3.3% | -26.0% | 4 | +1 | $12.2B | 23.9M | Basic Materials |
-| 20 | **PWR** | PETERWA FPO [PWR] | $0.73 | -61.7% | -70.9% | +2.1% | -9.5% | 2 | +1 | $126M | 201K | Consumer Cyclical |
+| 1 | **IEL** | IEL | $2.15 | -66.3% | -94.0% | +7.5% | +27.4% | 2 | +4 | — | 3.9M | Unknown |
+| 2 | **PNR** | PNR | $3.00 | -52.0% | -58.0% | +2.4% | +8.5% | 5 | +1 | — | 3.4M | Unknown |
+| 3 | **CTD** | CTD | $2.31 | -85.6% | -90.8% | -4.1% | +20.5% | 2 | -3 | — | 1.4M | Unknown |
+| 4 | **GTK** | GTK | $3.30 | -65.8% | -74.6% | +11.9% | -10.9% | 3 | +1 | — | 562K | Unknown |
+| 5 | **WBT** | WBT | $3.03 | -64.8% | -65.4% | -19.8% | +10.2% | 3 | -1 | — | 2.3M | Unknown |
+| 6 | **LGI** | LGI | $2.26 | -49.4% | -49.4% | +19.3% | -13.1% | 4 | +1 | — | 56K | Unknown |
+| 7 | **BAP** | BAP | $0.78 | -75.5% | -89.8% | -4.9% | +6.5% | 2 | -2 | — | 7.6M | Unknown |
+| 8 | **OCL** | OCL | $5.78 | -70.2% | -73.8% | -3.8% | +1.2% | 3 | -1 | — | 178K | Unknown |
+| 9 | **NCK** | NCK | $14.17 | -42.1% | -42.1% | +0.8% | +1.4% | 4 | +2 | — | 287K | Unknown |
+| 10 | **DRO** | DRO | $1.64 | -70.9% | -75.1% | -10.1% | +5.5% | 3 | -1 | — | 9.0M | Unknown |
+| 11 | **CAT** | CAT | $3.19 | -57.3% | -57.4% | -2.4% | +6.9% | 4 | -1 | — | 763K | Unknown |
+| 12 | **BBN** | BBN | $1.08 | -64.1% | -80.4% | -0.7% | +3.8% | 2 | -1 | — | 187K | Unknown |
+| 13 | **XRO** | XRO | $58.45 | -62.8% | -69.9% | +1.0% | -19.2% | 4 | +2 | — | 1.1M | Unknown |
+| 14 | **SEK** | SEK | $12.40 | -54.3% | -61.4% | +3.8% | -6.6% | 3 | +2 | — | 1.6M | Unknown |
+| 15 | **ZIP** | ZIP | $2.15 | -53.8% | -69.8% | +3.9% | -9.2% | 4 | +2 | — | 13.4M | Unknown |
+| 16 | **PWR** | PWR | $0.73 | -61.7% | -70.9% | +2.1% | -9.5% | 2 | +1 | — | 235K | Unknown |
+| 17 | **OCC** | OCC | $0.69 | -51.4% | -60.3% | -8.6% | +4.8% | 4 | -1 | — | 351K | Unknown |
+| 18 | **APX** | APX | $1.12 | -40.8% | -89.5% | -10.0% | +21.4% | 4 | -1 | — | 2.2M | Unknown |
+| 19 | **ELS** | ELS | $4.14 | -50.5% | -50.5% | -22.1% | +4.7% | 5 | -1 | — | 2.4M | Unknown |
+| 20 | **JIN** | JIN | $5.91 | -53.3% | -64.5% | +1.0% | -11.0% | 1 | +3 | — | 679K | Unknown |
 
 **Sector breakdown:**
-- Technology: 6 (GTK, XRO, NWL, WTC, WBT, CAT)
-- Consumer Cyclical: 5 (BBN, BAP, NCK, CTD, PWR)
-- Basic Materials: 3 (PNR, AAI, PLS)
-- Consumer Defensive: 1 (IEL)
-- Financial Services: 1 (ZIP)
-- Utilities: 1 (LGI)
-- Communication Services: 1 (SEK)
-- Industrials: 1 (KPG)
-- Real Estate: 1 (CNI)
+- Unknown: 20 (IEL, PNR, CTD, GTK, WBT, LGI, BAP, OCL, NCK, DRO +10 more)
 
 ---
+> ⚠️ Coverage gaps: 0 tickers not downloaded, 0 batch(es) dropped, 718 info lookups failed.
+
 *Filters: min price $0.50, min mcap $100M, min vol 50,000. General information only. Not personal financial advice.*
