@@ -1,6 +1,6 @@
-# ASX Momentum Digest — 2026-10-13
+# ASX Momentum Digest — 2026-10-14
 
-**Scanned:** 1656 stocks | **Passed filters:** 860 | **Uptrends (CU):** 8 | **Accelerating:** 6 | **New Uptrends:** 3 | **Lost Uptrends:** 2
+**Scanned:** 1655 stocks | **Passed filters:** 937 | **Uptrends (CU):** 9 | **Accelerating:** 8 | **New Uptrends:** 2 | **Lost Uptrends:** 1
 
 ## Track 1: Momentum Candidates (8)
 
@@ -8,17 +8,21 @@ Stocks in continuous uptrend (CU), accelerating (AC), or newly entering uptrend 
 
 | # | Ticker | Name | Price | Score | Flags | 1W | 1M | 3M | 6M | 1Y | From 52wH | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **PGF** | PGF | $3.22 | 8 | Uptrend, Ext.Uptrend, NewUptrend | +0.9% | +0.3% | +0.2% | +10.5% | +10.3% | -4.2% | — | 547K | Unknown |
-| 2 | **ALD** | ALD | $43.78 | 7 | Uptrend, NewUptrend | +1.2% | +2.1% | +19.3% | +12.1% | +11.6% | -2.4% | — | 1.3M | Unknown |
-| 3 | **MYS** | MYS | $4.90 | 7 | Uptrend, Ext.Uptrend, NewUptrend | +0.4% | +0.6% | +4.5% | +2.8% | +9.4% | -1.6% | — | 199K | Unknown |
-| 4 | **MAH** | MAH | $1.12 | 7 | Uptrend, Ext.Uptrend | +0.9% | +16.4% | +3.7% | +10.0% | +77.9% | -3.0% | — | 9.3M | Unknown |
-| 5 | **FPH** | FPH | $38.85 | 6 | Uptrend, Accelerating | +3.1% | +7.1% | +7.2% | +4.8% | +1.8% | -0.8% | — | 469K | Unknown |
-| 6 | **REH** | REH | $16.96 | 7 | Uptrend | +1.3% | +3.4% | +2.2% | +15.3% | +23.0% | -2.2% | — | 522K | Unknown |
-| 7 | **BOL** | BOL | $2.46 | 6 | Uptrend | +0.8% | +11.4% | +5.9% | +21.5% | +25.1% | +0.0% | — | 90K | Unknown |
-| 8 | **CGS** | CGS | $3.71 | 5 | Accelerating | +9.4% | +12.6% | +10.5% | +15.5% | -0.8% | -2.4% | — | 461K | Unknown |
+| 1 | **RHC** | RAMSAY FPO [RHC] | $54.65 | 5 | Uptrend, NewUptrend | +0.2% | +3.1% | +23.2% | +7.0% | +28.9% | -1.8% | $12.6B | 719K | Healthcare |
+| 2 | **AHL** | ADRAD FPO [AHL] | $1.50 | 6 | Uptrend, NewUptrend | +1.0% | +2.8% | +10.5% | +3.9% | +75.3% | -3.4% | $122M | 141K | Industrials |
+| 3 | **PGF** | PMGLOBAL FPO [PGF] | $3.22 | 8 | Uptrend, Ext.Uptrend | +0.9% | +0.3% | +0.2% | +10.5% | +10.3% | -4.2% | $2.0B | 566K | Financial Services |
+| 4 | **ALD** | AMPOL FPO [ALD] | $43.51 | 7 | Uptrend | +0.5% | +2.1% | +19.3% | +12.1% | +11.6% | -3.0% | $10.4B | 1.3M | Energy |
+| 5 | **MAH** | MACMAHON FPO [MAH] | $1.12 | 7 | Uptrend, Ext.Uptrend | +0.9% | +16.4% | +3.7% | +10.0% | +77.9% | -3.0% | $2.4B | 9.5M | Basic Materials |
+| 6 | **FPH** | F&P HEALTH FPO NZX [FPH] | $39.02 | 6 | Uptrend, Accelerating | +3.5% | +7.1% | +7.2% | +4.8% | +1.8% | -0.4% | $23.0B | 487K | Healthcare |
+| 7 | **REH** | REECE FPO [REH] | $17.11 | 7 | Uptrend | +2.1% | +3.4% | +2.2% | +15.3% | +23.0% | -1.4% | $10.5B | 540K | Industrials |
+| 8 | **CGS** | COGSTATE FPO [CGS] | $3.64 | 5 | Accelerating | +7.4% | +12.6% | +10.5% | +15.5% | -0.8% | -4.2% | $627M | 482K | Healthcare |
 
 **Sector breakdown:**
-- Unknown: 8 (PGF, ALD, MYS, MAH, FPH, REH, BOL, CGS)
+- Healthcare: 3 (RHC, FPH, CGS)
+- Industrials: 2 (AHL, REH)
+- Financial Services: 1 (PGF)
+- Energy: 1 (ALD)
+- Basic Materials: 1 (MAH)
 
 ## Track 2: Reversal Candidates (20)
 
@@ -26,31 +30,35 @@ Stocks 40%+ below 52-week high but showing positive recent segments. Not buy sig
 
 | # | Ticker | Name | Price | From 52wH | From 5yH | 1W | 1M | Score | Wk Streak | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **IEL** | IEL | $2.17 | -65.1% | -93.9% | +4.3% | +39.6% | 2 | -1 | — | 4.0M | Unknown |
-| 2 | **CTD** | CTD | $2.50 | -84.4% | -90.0% | +13.6% | -7.6% | 2 | +1 | — | 1.1M | Unknown |
-| 3 | **EIQ** | EIQ | $0.52 | -70.3% | -70.3% | -8.0% | +16.5% | 5 | -4 | — | 8.3M | Unknown |
-| 4 | **ERD** | ERD | $0.81 | -68.5% | -82.6% | +3.5% | -7.4% | 4 | +2 | — | 90K | Unknown |
-| 5 | **WBT** | WBT | $2.70 | -68.6% | -69.1% | -24.2% | +11.9% | 3 | -2 | — | 2.4M | Unknown |
-| 6 | **BBN** | BBN | $1.09 | -63.4% | -80.1% | -2.2% | +5.7% | 2 | +1 | — | 180K | Unknown |
-| 7 | **CAT** | CAT | $3.08 | -58.3% | -58.8% | -2.8% | +9.3% | 4 | -2 | — | 662K | Unknown |
-| 8 | **BAP** | BAP | $0.76 | -76.1% | -90.0% | -5.4% | +1.9% | 2 | -3 | — | 7.4M | Unknown |
-| 9 | **PNR** | PNR | $2.88 | -52.3% | -59.7% | -3.7% | +14.1% | 4 | -1 | — | 3.4M | Unknown |
-| 10 | **SEK** | SEK | $12.81 | -52.8% | -60.1% | +4.5% | -0.7% | 3 | +3 | — | 1.6M | Unknown |
-| 11 | **APX** | APX | $1.03 | -45.5% | -90.3% | -11.9% | +23.0% | 4 | -2 | — | 2.1M | Unknown |
-| 12 | **KPG** | KPG | $4.29 | -59.1% | -68.5% | +1.7% | -10.4% | 5 | +1 | — | 55K | Unknown |
-| 13 | **DRO** | DRO | $1.51 | -68.9% | -77.1% | -10.7% | +5.3% | 4 | -2 | — | 9.1M | Unknown |
-| 14 | **AEF** | AEF | $4.14 | -41.9% | -68.7% | +2.2% | +0.2% | 4 | +1 | — | 115K | Unknown |
-| 15 | **MGH** | MGH | $3.63 | -48.8% | -48.8% | -43.2% | +14.5% | 3 | -3 | — | 4.9M | Unknown |
-| 16 | **GTK** | GTK | $3.26 | -66.2% | -74.9% | -0.3% | +2.2% | 4 | -1 | — | 549K | Unknown |
-| 17 | **HVN** | HVN | $4.13 | -42.0% | -42.0% | +1.2% | +2.0% | 5 | -1 | — | 2.9M | Unknown |
-| 18 | **AYA** | AYA | $2.93 | -53.3% | -53.3% | -11.5% | +2.8% | 5 | -4 | — | 2.2M | Unknown |
-| 19 | **GDG** | GDG | $2.73 | -63.4% | -63.9% | +3.0% | -12.3% | 4 | -1 | — | 1.7M | Unknown |
-| 20 | **JIN** | JIN | $5.92 | -53.2% | -64.4% | +1.9% | -10.2% | 1 | -1 | — | 675K | Unknown |
+| 1 | **IEL** | IEL FPO [IEL] | $2.20 | -64.6% | -93.8% | +5.8% | +39.6% | 2 | -1 | $612M | 4.0M | Consumer Defensive |
+| 2 | **ZIP** | ZIPCOLTD FPO [ZIP] | $2.21 | -52.1% | -69.0% | +4.2% | +1.0% | 5 | +3 | $2.8B | 14.0M | Financial Services |
+| 3 | **GTK** | GENTRACK FPO NZX [GTK] | $3.34 | -65.3% | -74.3% | +2.1% | +2.2% | 5 | +2 | $376M | 559K | Technology |
+| 4 | **ERD** | EROAD FPO NZX [ERD] | $0.81 | -57.2% | -82.6% | +0.6% | +1.3% | 5 | +2 | $152M | 92K | Technology |
+| 5 | **CTD** | CORP TRAV FPO [CTD] | $2.62 | -83.7% | -89.6% | +19.1% | -7.6% | 2 | +1 | $383M | 1.2M | Consumer Cyclical |
+| 6 | **XRO** | XERO FPO [XRO] | $59.53 | -61.5% | -69.3% | +6.1% | -17.0% | 3 | -1 | $10.5B | 1.1M | Technology |
+| 7 | **WBT** | WEEBITNANO FPO [WBT] | $2.71 | -68.5% | -69.0% | -23.9% | +11.9% | 3 | -2 | $658M | 2.5M | Technology |
+| 8 | **PNR** | PANTORO FPO [PNR] | $2.89 | -52.1% | -59.5% | -3.3% | +14.1% | 4 | -1 | $1.1B | 3.5M | Basic Materials |
+| 9 | **SEK** | SEEK FPO [SEK] | $12.83 | -52.8% | -60.1% | +4.6% | -0.7% | 3 | +3 | $4.6B | 1.6M | Communication Services |
+| 10 | **DRO** | DRONE FPO [DRO] | $1.49 | -69.4% | -77.5% | -12.1% | +5.3% | 4 | -2 | $1.4B | 9.4M | Industrials |
+| 11 | **WTC** | WISETECH FPO [WTC] | $33.55 | -60.6% | -75.6% | +4.5% | -1.1% | 3 | -1 | $11.3B | 1.7M | Technology |
+| 12 | **MGH** | MAAS GROUP FPO [MGH] | $3.72 | -47.5% | -47.5% | -41.8% | +14.5% | 3 | -3 | $1.3B | 5.6M | Industrials |
+| 13 | **CAT** | CATAPULT FPO [CAT] | $3.14 | -57.5% | -58.0% | -0.9% | +9.3% | 4 | -2 | $992M | 677K | Technology |
+| 14 | **HVN** | HARVEY FPO [HVN] | $4.13 | -42.0% | -42.0% | +1.2% | +2.0% | 5 | -1 | $5.1B | 3.0M | Consumer Cyclical |
+| 15 | **CEL** | CHAL GOLD FPO [CEL] | $1.72 | -57.0% | -75.8% | +7.5% | -16.9% | 2 | +1 | $294M | 136K | Basic Materials |
+| 16 | **BBN** | BABY B FPO [BBN] | $1.10 | -63.2% | -80.0% | -1.8% | +5.7% | 2 | +1 | $151M | 198K | Consumer Cyclical |
+| 17 | **APX** | APPEN FPO [APX] | $0.98 | -48.2% | -90.8% | -16.2% | +23.0% | 4 | -2 | $264M | 2.3M | Technology |
+| 18 | **ASB** | AUSTAL LTD FPO [ASB] | $4.13 | -52.8% | -52.8% | +0.7% | -6.4% | 5 | +1 | $1.7B | 1.6M | Industrials |
+| 19 | **GDG** | GEN DEV FPO [GDG] | $2.68 | -64.1% | -64.5% | +1.1% | -12.3% | 4 | -1 | $1.1B | 1.7M | Financial Services |
+| 20 | **BAP** | BAPCOR LTD FPO [BAP] | $0.76 | -76.2% | -90.1% | -5.6% | +1.9% | 2 | -3 | $508M | 7.5M | Consumer Cyclical |
 
 **Sector breakdown:**
-- Unknown: 20 (IEL, CTD, EIQ, ERD, WBT, BBN, CAT, BAP, PNR, SEK +10 more)
+- Technology: 7 (GTK, ERD, XRO, WBT, WTC, CAT, APX)
+- Consumer Cyclical: 4 (CTD, HVN, BBN, BAP)
+- Industrials: 3 (DRO, MGH, ASB)
+- Financial Services: 2 (ZIP, GDG)
+- Basic Materials: 2 (PNR, CEL)
+- Consumer Defensive: 1 (IEL)
+- Communication Services: 1 (SEK)
 
 ---
-> ⚠️ Coverage gaps: 0 tickers not downloaded, 0 batch(es) dropped, 860 info lookups failed.
-
 *Filters: min price $0.50, min mcap $100M, min vol 50,000. General information only. Not personal financial advice.*
