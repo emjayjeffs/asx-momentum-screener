@@ -1,6 +1,6 @@
-# ASX Momentum Digest — 2026-11-24
+# ASX Momentum Digest — 2026-11-25
 
-**Scanned:** 1754 stocks | **Passed filters:** 947 | **Uptrends (CU):** 4 | **Accelerating:** 4 | **New Uptrends:** 2 | **Lost Uptrends:** 1
+**Scanned:** 1753 stocks | **Passed filters:** 843 | **Uptrends (CU):** 5 | **Accelerating:** 6 | **New Uptrends:** 2 | **Lost Uptrends:** 0
 
 ## Track 1: Momentum Candidates (6)
 
@@ -8,20 +8,15 @@ Stocks in continuous uptrend (CU), accelerating (AC), or newly entering uptrend 
 
 | # | Ticker | Name | Price | Score | Flags | 1W | 1M | 3M | 6M | 1Y | From 52wH | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **AVH** | AVITA MED CDI 5:1 [AVH] | $4.98 | 6 | Uptrend | +10.7% | +4.2% | +57.7% | +119.2% | +9.2% | -3.7% | $789M | 467K | Healthcare |
-| 2 | **REH** | REECE FPO [REH] | $19.14 | 6 | Uptrend, NewUptrend | +1.5% | +8.3% | +5.6% | +21.6% | +11.0% | -0.7% | $11.8B | 536K | Industrials |
-| 3 | **JNS** | JANUS FPO [JNS] | $0.67 | 6 | Uptrend, NewUptrend | +12.7% | +24.2% | +5.6% | +150.0% | +63.6% | -22.7% | $126M | 1.3M | Utilities |
-| 4 | **WOW** | WOOLWORTHS FPO [WOW] | $42.17 | 5 | Uptrend | +0.3% | +0.7% | +8.9% | +12.6% | +24.3% | -0.7% | — | 2.4M | Consumer Defensive |
-| 5 | **TPW** | TEMPLE WEB FPO [TPW] | $6.66 | 5 | Accelerating | +5.7% | +16.0% | +9.9% | -2.9% | -73.0% | -57.1% | $780M | 735K | Consumer Cyclical |
-| 6 | **RMC** | RESIMAC FPO [RMC] | $0.82 | 5 | Accelerating | +1.2% | +2.5% | +0.5% | -1.2% | -3.6% | -17.6% | $326M | 78K | Financial Services |
+| 1 | **IAG** | IAG | $9.26 | 7 | Uptrend, NewUptrend | +2.7% | +1.4% | +14.4% | +3.7% | +1.5% | +0.0% | — | 5.6M | Unknown |
+| 2 | **AVH** | AVH | $4.99 | 6 | Uptrend | +5.7% | +9.8% | +47.8% | +151.9% | +0.9% | -3.5% | — | 444K | Unknown |
+| 3 | **OML** | OML | $1.67 | 6 | Uptrend, NewUptrend | +6.4% | +0.3% | +1.5% | +24.8% | +11.6% | +0.0% | — | 4.8M | Unknown |
+| 4 | **JNS** | JNS | $0.66 | 6 | Uptrend | +8.2% | +19.6% | +24.4% | +134.3% | +59.1% | -23.3% | — | 1.2M | Unknown |
+| 5 | **REH** | REH | $19.23 | 6 | Uptrend | +3.1% | +7.1% | +4.5% | +22.2% | +11.8% | -0.2% | — | 476K | Unknown |
+| 6 | **TPW** | TPW | $6.67 | 5 | Accelerating | +7.5% | +23.0% | +4.8% | -8.0% | -74.4% | -57.0% | — | 721K | Unknown |
 
 **Sector breakdown:**
-- Healthcare: 1 (AVH)
-- Industrials: 1 (REH)
-- Utilities: 1 (JNS)
-- Consumer Defensive: 1 (WOW)
-- Consumer Cyclical: 1 (TPW)
-- Financial Services: 1 (RMC)
+- Unknown: 6 (IAG, AVH, OML, JNS, REH, TPW)
 
 ## Track 2: Reversal Candidates (20)
 
@@ -29,36 +24,31 @@ Stocks 40%+ below 52-week high but showing positive recent segments. Not buy sig
 
 | # | Ticker | Name | Price | From 52wH | From 5yH | 1W | 1M | Score | Wk Streak | MCap | Vol(20d) | Sector |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **TPW** | TEMPLE WEB FPO [TPW] | $6.66 | -57.1% | -76.5% | +5.7% | +16.0% | 5 | +4 | $780M | 735K | Consumer Cyclical |
-| 2 | **IEL** | IEL FPO [IEL] | $2.68 | -55.6% | -92.1% | +7.6% | +12.7% | 3 | +1 | $752M | 1.6M | Consumer Defensive |
-| 3 | **BAP** | BAPCOR LTD FPO [BAP] | $0.93 | -60.6% | -86.3% | +2.8% | +9.8% | 4 | +2 | $620M | 4.9M | Consumer Cyclical |
-| 4 | **LYC** | LYNAS FPO [LYC] | $12.90 | -41.5% | -41.5% | +7.3% | +12.3% | 5 | +1 | $13.0B | 6.6M | Basic Materials |
-| 5 | **PLS** | PLSGROUP FPO [PLS] | $2.71 | -59.4% | -59.4% | +2.7% | +0.8% | 5 | +1 | $8.8B | 33.1M | Basic Materials |
-| 6 | **NYR** | NYRADA CDI FORUS [NYR] | $0.50 | -63.8% | -63.8% | +2.0% | +11.4% | 5 | +1 | $130M | 139K | Healthcare |
-| 7 | **ASB** | AUSTAL LTD FPO [ASB] | $4.33 | -50.6% | -50.6% | +2.7% | +1.2% | 6 | +1 | $1.8B | 1.7M | Industrials |
-| 8 | **PNR** | PANTORO FPO [PNR] | $2.96 | -49.7% | -58.5% | -6.8% | +23.3% | 4 | +1 | $1.1B | 3.1M | Basic Materials |
-| 9 | **ZIP** | ZIPCOLTD FPO [ZIP] | $7.81 | -56.1% | -71.3% | -21.5% | +36.3% | 3 | -2 | $2.1B | 4.1M | Financial Services |
-| 10 | **AYA** | ARTRYA FPO [AYA] | $2.47 | -60.6% | -60.6% | -14.8% | +18.4% | 5 | -3 | $409M | 1.1M | Healthcare |
-| 11 | **TUA** | TUAS LTD FPO [TUA] | $1.66 | -78.3% | -80.0% | +12.9% | -19.2% | 4 | +1 | $913M | 3.0M | Communication Services |
-| 12 | **MMI** | METROMININ FPO [MMI] | $0.82 | -54.0% | -56.6% | -2.9% | +18.1% | 6 | +1 | $255M | 879K | Basic Materials |
-| 13 | **BBN** | BABY B FPO [BBN] | $1.17 | -58.7% | -78.3% | -2.1% | +17.2% | 2 | +1 | $159M | 296K | Consumer Cyclical |
-| 14 | **SDR** | SITEMINDER FPO [SDR] | $3.23 | -50.6% | -58.1% | -4.9% | +22.7% | 3 | +1 | $916M | 1.5M | Technology |
-| 15 | **BRE** | BRZLINRARE FPO [BRE] | $1.82 | -72.4% | -72.4% | +7.2% | -1.4% | 3 | +1 | $503M | 1.1M | Basic Materials |
-| 16 | **NXT** | NEXTDC FPO [NXT] | $9.22 | -43.7% | -50.0% | -0.9% | +65.8% | 4 | +1 | $7.0B | 11.9M | Technology |
-| 17 | **CTD** | CORP TRAV FPO [CTD] | $3.60 | -77.6% | -85.7% | +6.4% | -8.9% | 2 | +1 | $497M | 687K | Consumer Cyclical |
-| 18 | **KMD** | KMDBRANDS FPO NZX [KMD] | $1.72 | -54.9% | -91.4% | -16.3% | +37.1% | 3 | -2 | $123M | 97K | Consumer Cyclical |
-| 19 | **CHN** | CHALICE FPO [CHN] | $0.94 | -64.5% | -90.5% | -4.6% | +11.4% | 2 | +1 | $365M | 2.1M | Basic Materials |
-| 20 | **RDY** | READYTECH FPO [RDY] | $1.35 | -49.6% | -67.3% | +0.4% | +8.0% | 3 | -1 | $168M | 88K | Technology |
+| 1 | **TPW** | TPW | $6.67 | -57.0% | -76.5% | +7.5% | +23.0% | 5 | +4 | — | 721K | Unknown |
+| 2 | **TUA** | TUA | $1.65 | -78.4% | -80.2% | +19.8% | +8.7% | 6 | +1 | — | 3.1M | Unknown |
+| 3 | **BAP** | BAP | $0.94 | -60.0% | -86.1% | +8.0% | +6.1% | 4 | +2 | — | 4.8M | Unknown |
+| 4 | **MMI** | MMI | $0.86 | -52.1% | -54.7% | +3.0% | +19.3% | 7 | +1 | — | 680K | Unknown |
+| 5 | **IEL** | IEL | $2.56 | -57.6% | -92.4% | +5.8% | +8.5% | 3 | -2 | — | 1.6M | Unknown |
+| 6 | **BBN** | BBN | $1.16 | -58.0% | -78.4% | +1.3% | +8.0% | 3 | +1 | — | 293K | Unknown |
+| 7 | **ORD** | ORD | $0.51 | -48.0% | -48.0% | +13.3% | +3.4% | 4 | +1 | — | 84K | Unknown |
+| 8 | **HLS** | HLS | $0.59 | -43.3% | -83.6% | +1.7% | +31.8% | 5 | -1 | — | 3.5M | Unknown |
+| 9 | **CTD** | CTD | $3.83 | -76.2% | -84.7% | +20.4% | -5.9% | 2 | +1 | — | 689K | Unknown |
+| 10 | **LYC** | LYC | $12.76 | -42.2% | -42.2% | +3.2% | +9.8% | 5 | +1 | — | 6.5M | Unknown |
+| 11 | **ASB** | ASB | $4.35 | -50.3% | -50.3% | +2.4% | +1.7% | 5 | +1 | — | 1.5M | Unknown |
+| 12 | **CHN** | CHN | $0.91 | -65.4% | -90.7% | -6.2% | +6.0% | 3 | +1 | — | 2.0M | Unknown |
+| 13 | **KMD** | KMD | $1.76 | -53.7% | -91.1% | -13.7% | +35.5% | 2 | -2 | — | 100K | Unknown |
+| 14 | **DRO** | DRO | $1.08 | -77.2% | -83.6% | +3.8% | -28.8% | 5 | +1 | — | 8.3M | Unknown |
+| 15 | **AYA** | AYA | $2.29 | -63.5% | -63.5% | -15.2% | +9.8% | 5 | -3 | — | 1.1M | Unknown |
+| 16 | **NYR** | NYR | $0.50 | -63.8% | -63.8% | +0.0% | +5.3% | 4 | +1 | — | 138K | Unknown |
+| 17 | **CBO** | CBO | $2.58 | -40.4% | -40.4% | +0.4% | +0.4% | 5 | -1 | — | 653K | Unknown |
+| 18 | **OCC** | OCC | $0.55 | -51.2% | -68.7% | -4.0% | +15.2% | 3 | -1 | — | 212K | Unknown |
+| 19 | **GTK** | GTK | $3.62 | -62.5% | -72.2% | -4.0% | +5.3% | 4 | -2 | — | 320K | Unknown |
+| 20 | **NXT** | NXT | $9.00 | -45.0% | -51.2% | -3.2% | +67.9% | 4 | -3 | — | 11.1M | Unknown |
 
 **Sector breakdown:**
-- Basic Materials: 6 (LYC, PLS, PNR, MMI, BRE, CHN)
-- Consumer Cyclical: 5 (TPW, BAP, BBN, CTD, KMD)
-- Technology: 3 (SDR, NXT, RDY)
-- Healthcare: 2 (NYR, AYA)
-- Consumer Defensive: 1 (IEL)
-- Industrials: 1 (ASB)
-- Financial Services: 1 (ZIP)
-- Communication Services: 1 (TUA)
+- Unknown: 20 (TPW, TUA, BAP, MMI, IEL, BBN, ORD, HLS, CTD, LYC +10 more)
 
 ---
+> ⚠️ Coverage gaps: 0 tickers not downloaded, 0 batch(es) dropped, 843 info lookups failed.
+
 *Filters: min price $0.50, min mcap $100M, min vol 50,000. General information only. Not personal financial advice.*
